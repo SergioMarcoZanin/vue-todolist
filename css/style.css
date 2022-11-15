@@ -1,0 +1,29 @@
+
+/* RESET */
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/* COMMON */
+.container{
+    max-width: 50rem;
+}
+/*HEADER*/
+header{
+    text-align:center;
+    padding: 1.875rem;
+}
+header img{
+    max-width: 18.75rem;
+}
+/* MAIN */
+form input{
+    border-radius: .9375rem;
+}
+.l-through{
+    text-decoration: line-through;
+}
+li span{
+    cursor: pointer;
+}
